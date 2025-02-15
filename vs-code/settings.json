@@ -1,0 +1,10 @@
+{
+    "files.autoSave": "afterDelay",
+    "editor.minimap.enabled": false,
+    "jupyter.askForKernelRestart": false,
+    "workbench.editor.limit.enabled": true,
+    "workbench.editor.limit.value": 15,
+    "github.copilot.enable": {
+        "markdown": true
+    }
+}
